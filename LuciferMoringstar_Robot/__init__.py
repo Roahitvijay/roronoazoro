@@ -29,15 +29,15 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ 🤖 My Name: [Star Anime](http://t.me/staranime1bot)
+➥ 🤖 My Name: [🍺 Roronoa Zoro 🍺](http://t.me/zoro_01bot)
     
 ➥ 🧑 My Creator : [R0ahit](https://t.me/R0ahit)
 
 ➥ Language : Python3
 
-➥ 👥 My Anime group search : [Animepiratesgroup](https://t.me/animegroup99)
+➥ 👥 Anime group search : [Animelandgroup](https://t.me/animelandmovies)
 
-➥ 📺 My Anime channel : [Animepirateschannel](https://t.me/animepirateschannel)
+➥ 📺 My Anime channel : [Animelandchannel](https://t.me/Animelandone)
 
 ➥ 🏷️ My Updates : [Animechannel90](https://t.me/Animechannel90)
    
