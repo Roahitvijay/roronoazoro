@@ -89,7 +89,7 @@ async def answer(bot, query):
 
 def get_reply_markup(query):
     buttons = [[
-        InlineKeyboardButton('Join My Channel', url=f'https://t.me/animepirateschannel')
+        InlineKeyboardButton('📍Join My Channel📍', url=f'https://t.me/Animelandone')
         ],[
         InlineKeyboardButton('🔍 Search again 🔎', switch_inline_query_current_chat=query)
         ]]
