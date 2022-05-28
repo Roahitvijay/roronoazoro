@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🎖 Group Search 🎖', url='https://t.me/animegroup99')
+                        InlineKeyboardButton('🎖 Group Search 🎖', url='https://t.me/animelandmovies')
                     ]
                     ]
                 await bot.send_cached_media(
@@ -331,7 +331,7 @@ async def bot_info(bot, message):
     buttons = [
         [
             
-            InlineKeyboardButton('Anime Channel', url='https://t.me/animepirateschannel')
+            InlineKeyboardButton('Anime Channel', url='https://t.me/Animelandone')
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
